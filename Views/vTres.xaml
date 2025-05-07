@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="squispeS3A.Views.vTres"
+             Title="vTres">
+    <VerticalStackLayout
+        Padding ="20"
+        Spacing="20">
+        <Label 
+            Text="Ventana de registro"
+            Fontsize="18"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Entry x:Name="txtUsaurio"
+               Placeholder="Ingrese usuario"/>
+        <Entry
+            x:Name="txtContraseña"
+            Text="Ingresar Contraseña"/>
+        <Button x:Name="btnGuardar"
+                Text="Guardar"
+                Clicked="btbGuardar_Clicked"/>
+    </VerticalStackLayout>
+</ContentPage>

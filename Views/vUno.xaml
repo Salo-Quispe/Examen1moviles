@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="squispeS3A.Views.vUno"
+             Title="vUno">
+    <VerticalStackLayout
+        Spacing="20"
+        Padding="20">
+        <Label 
+            Text="Inicio de sesion"
+            Fontsise="20"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Image Source ="uisrael.jpg"/>
+        <Grid>
+            <Grid.RowDefnitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefnitions>
+            <Grid.ColumnDefinitions>
+                <Grid.ColumnDefinition/>
+                <Grid.ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <label Text="Usuario"
+                   Grid.Row="0"
+                   Grid.Column="1"/>
+            <label Text="Contraseña"
+                   Fontsize="18"
+                   HorizontalTetxtALingment="Center"
+                   Grid.Row="1"
+                   Grid.Column="0"/>
+            <Entry x:Name="txtContraseña"
+                   Placehoder="Ingrese la contraseña"
+                   IsPassword="True"
+                   Grid.Row="1"
+                   Grid.Column="0"/>
+        </Grid>
+            <Button x:Name="btnInicioSesion"
+                    Text="Inisiar sesion"
+                    Clicked=""/>
+            <Button x:Name="btnInicioSesion"
+                    Text="Iniciar sesion"
+                    Clicked=""/>
+    </VerticalStackLayout>
+
+</ContentPage>
