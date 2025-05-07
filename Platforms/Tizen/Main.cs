@@ -2,7 +2,7 @@ using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 using System;
 
-namespace squispeS3A
+namespace squispeExamen
 {
     internal class Program : MauiApplication
     {

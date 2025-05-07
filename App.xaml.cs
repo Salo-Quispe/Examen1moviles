@@ -1,17 +1,11 @@
-﻿using UIKit;
-
-namespace squispeS3A
+﻿namespace squispeExamen
 {
     public partial class App : Application
     {
         public App()
         {
             InitializeComponent();
-        }
-
-        protected override Window CreateWindow(IActivationState? activationState)
-        {
-            return new Window(new Views.vUno());
+            MainPage = new NavigationPage(new Views.Login());
         }
     }
 }

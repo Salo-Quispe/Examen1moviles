@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace squispeS3A
+namespace squispeExamen
 {
     public static class MauiProgram
     {

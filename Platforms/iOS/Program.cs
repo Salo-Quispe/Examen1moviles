@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace squispeS3A
+namespace squispeExamen
 {
     public class Program
     {

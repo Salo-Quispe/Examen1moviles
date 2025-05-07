@@ -1,0 +1,65 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = squispeExamen
+build_property.ProjectDir = C:\Users\wosun\OneDrive\Documents\U-Israel\Octavo semestre\Moviles\Semana3\squispeExamen\squispeExamen\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/wosun/OneDrive/Documents/U-Israel/Octavo semestre/Moviles/Semana3/squispeExamen/squispeExamen/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = squispeExamen.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/wosun/OneDrive/Documents/U-Israel/Octavo semestre/Moviles/Semana3/squispeExamen/squispeExamen/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = squispeExamen.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/wosun/OneDrive/Documents/U-Israel/Octavo semestre/Moviles/Semana3/squispeExamen/squispeExamen/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = squispeExamen.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/wosun/OneDrive/Documents/U-Israel/Octavo semestre/Moviles/Semana3/squispeExamen/squispeExamen/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = squispeExamen.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/wosun/OneDrive/Documents/U-Israel/Octavo semestre/Moviles/Semana3/squispeExamen/squispeExamen/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = squispeExamen.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/wosun/OneDrive/Documents/U-Israel/Octavo semestre/Moviles/Semana3/squispeExamen/squispeExamen/Views/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = squispeExamen.Views.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Login.xaml
+
+[C:/Users/wosun/OneDrive/Documents/U-Israel/Octavo semestre/Moviles/Semana3/squispeExamen/squispeExamen/Views/Registro.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = squispeExamen.Views.Registro.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Registro.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Registro.xaml
+
+[C:/Users/wosun/OneDrive/Documents/U-Israel/Octavo semestre/Moviles/Semana3/squispeExamen/squispeExamen/Views/Resumen.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = squispeExamen.Views.Resumen.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Resumen.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Resumen.xaml

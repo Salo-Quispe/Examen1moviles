@@ -5,7 +5,7 @@
 //------------------------------------------------------------------------------
 using System;
 
-namespace squispeS3A {
+namespace squispeExamen {
 	#pragma warning disable IDE0002
 	public partial class Resource : _Microsoft.Android.Resource.Designer.ResourceConstant {
 	}

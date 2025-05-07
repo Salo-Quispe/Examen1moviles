@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace squispeS3A
+namespace squispeExamen
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

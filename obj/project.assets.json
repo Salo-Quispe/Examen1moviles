@@ -32936,11 +32936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wosun\\OneDrive\\Documents\\U-Israel\\Octavo semestre\\Moviles\\Semana3\\squispeS3A\\squispeS3A\\squispeS3A.csproj",
-      "projectName": "squispeS3A",
-      "projectPath": "C:\\Users\\wosun\\OneDrive\\Documents\\U-Israel\\Octavo semestre\\Moviles\\Semana3\\squispeS3A\\squispeS3A\\squispeS3A.csproj",
+      "projectUniqueName": "C:\\Users\\wosun\\OneDrive\\Documents\\U-Israel\\Octavo semestre\\Moviles\\Semana3\\squispeExamen\\squispeExamen\\squispeExamen.csproj",
+      "projectName": "squispeExamen",
+      "projectPath": "C:\\Users\\wosun\\OneDrive\\Documents\\U-Israel\\Octavo semestre\\Moviles\\Semana3\\squispeExamen\\squispeExamen\\squispeExamen.csproj",
       "packagesPath": "C:\\Users\\wosun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wosun\\OneDrive\\Documents\\U-Israel\\Octavo semestre\\Moviles\\Semana3\\squispeS3A\\squispeS3A\\obj\\",
+      "outputPath": "C:\\Users\\wosun\\OneDrive\\Documents\\U-Israel\\Octavo semestre\\Moviles\\Semana3\\squispeExamen\\squispeExamen\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1gV56FsFLcXAxfRcBON6DQESuIRPFj5WWbtcutgMsJDfapPfg9zoR29KsXZ992MJOxUWlmKhOU31igkzlPnaOg==",
+  "dgSpecHash": "cTHYc6vhOk/eyBAbww2lsc70RxQFcAZUZA/7Nfz0WHJXwK/J0K5KSQX0vL6P5Fk5VWdwlTuuvPk1f8Ke/8ZHLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wosun\\OneDrive\\Documents\\U-Israel\\Octavo semestre\\Moviles\\Semana3\\squispeS3A\\squispeS3A\\squispeS3A.csproj",
+  "projectFilePath": "C:\\Users\\wosun\\OneDrive\\Documents\\U-Israel\\Octavo semestre\\Moviles\\Semana3\\squispeExamen\\squispeExamen\\squispeExamen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wosun\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\wosun\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

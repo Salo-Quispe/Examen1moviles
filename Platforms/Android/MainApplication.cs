@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace squispeS3A
+namespace squispeExamen
 {
     [Application]
     public class MainApplication : MauiApplication
